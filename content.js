@@ -1,4 +1,4 @@
-const GITHUB_URL = "https://raw.githubusercontent.com/nonhash/twitter-scam-eyes-data/refs/heads/main/defaults.json";
+const GITHUB_URL = "https://raw.githubusercontent.com/nonhash/x-scam-eyes-data/refs/heads/main/defaults.json";
 const DEFAULT_LABEL_TEXT = "Paid Opinion!";
 let watchMap = new Map();
 
