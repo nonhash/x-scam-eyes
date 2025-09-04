@@ -18,5 +18,5 @@ Reduce informational noise when researching on X (Twitter).
 ```text
 - Popup allows adding local entries with nickname, proof link and optional label text.
 - Label text limited to 20 characters.
-- Defaults are loaded from GITHUB_URL (basic x-scam-eyes-data/default.json).
+- Default values ​​are loaded from the data repo when you log in to X.com and are updated every 5 minutes.
 ```
