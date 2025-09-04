@@ -1,7 +1,7 @@
 ## X Scam Eyes
 ### Description:
-X Scam Eyes — a Chrome extension for safe browsing on X (Twitter). 
-It highlights suspicious or paid influencers/projects, displaying labels with proof links (if available). 
+X Scam Eyes — a Chrome extension for safe browsing on X (Twitter).<br>
+It highlights suspicious or paid influencers/projects, displaying labels with proof links (if available).<br>
 All default users are synced from a public defaults.json file on [x-scam-eyes-data](https://github.com/nonhash/x-scam-eyes-data) repository, while local changes allow temporarily hiding entries or adding custom notes.
 
 ### Goal: 
