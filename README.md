@@ -7,7 +7,10 @@ All default users are synced from a public defaults.json file on [x-scam-eyes-da
 ### Goal: 
 Reduce informational noise when researching on X (Twitter).
 
-### Install:
+### Install from Chrome Extensions:
+[Cryptotwitter Alert List](https://chromewebstore.google.com/detail/mlpcmkmgnkngcgdaolilhkfpknikblne?utm_source=item-share-cb)
+
+### Install from github:
 ```text
 1. Open chrome://extensions
 2. Enable Developer mode
